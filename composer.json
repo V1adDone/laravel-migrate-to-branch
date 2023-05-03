@@ -1,5 +1,5 @@
 {
-	"name": "gilbitron/laravel-migrate-to-branch",
+	"name": "vladdone/laravel-migrate-to-branch",
 	"description": "A Laravel Artisan command to rollback migrations before switching to a given branch",
 	"type": "library",
 	"license": "MIT",
